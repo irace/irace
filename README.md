@@ -28,8 +28,6 @@ I don’t write nearly as often as I’d like to nowadays, but you can find ever
 
 ## 🌐 Elsewhere
 
-🐦 [Twitter](https://twitter.com/irace)
-
-📄 [Résumé](https://bryanirace.com)
-
-💼 [LinkedIn](https://www.linkedin.com/in/bryanirace/)
+🐦 [Twitter](https://twitter.com/irace)  
+📄 [Résumé](https://bryanirace.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/bryanirace/)  
