@@ -1,4 +1,4 @@
-I‘m **Bryan Irace**, a software engineer from Brooklyn, NY. I currently work at [Stripe](https://stripe.com), managing Stripe Capital’s Underwriting team. We maintain Capital’s data pipeline and machine learning models.
+I‘m **Bryan Irace**, a software engineer from Brooklyn, NY. I currently work at [Stripe](https://stripe.com).
 
 Prior to Stripe, I was a founding team member and CTO at a company called [Prefer](https://angel.co/prefer-2) (founded by [Scott Belsky](https://twitter.com/scottbelsky) of Adobe/Behance). We worked on Prefer – a platform for the future of good jobs and independent work – for over three years but eventually shut it down in January 2019. I’m very sad that we couldn’t make it work, but am incredibly grateful for the opportunity to work on such an ambitious project along with such an amazing group of people.
 
