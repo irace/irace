@@ -1,4 +1,4 @@
-I‘m **Bryan Irace**, a software engineer from Brooklyn, NY. I currently work at [Stripe](https://stripe.com).
+I‘m **Bryan Irace**, a software engineer from New York. I currently work on [Link](https://link.com) at [Stripe](https://stripe.com). I was Link’s “founding EM,” responsible for all facets of engineering—technical oversight, hiring, org. design—from three engineers to 40+. Current areas of ownership include app.link.com, authentication/security/compliance, mobile SDKs, messaging channels, and customer support.
 
 Prior to Stripe, I was a founding team member and CTO at a company called [Prefer](https://angel.co/prefer-2) (founded by [Scott Belsky](https://twitter.com/scottbelsky) of Adobe/Behance). We worked on Prefer – a platform for the future of good jobs and independent work – for over three years but eventually shut it down in January 2019. I’m very sad that we couldn’t make it work, but am incredibly grateful for the opportunity to work on such an ambitious project along with such an amazing group of people.
 
@@ -12,6 +12,10 @@ I don’t write nearly as often as I’d like to nowadays, but you can find ever
 
 ## 📰 Press
 
+
+* **[Spyglass: The Vibe Shift Amongst Apple Developers](https://spyglass.org/vibe-coding-apple-devs/)** – March 26, 2025
+* **[Daring Fireball: Bryan Irace: 'Tim, don't kill my vibe'](https://daringfireball.net/linked/2025/03/24/irace-vibe-killing)** – March 24, 2025
+* **[MacStories: App Store Vibes](https://www.macstories.net/linked/app-store-vibes/)** – March 24, 2025
 * **[Daring Fireball: Bryan Irace on Instagram's Continuing Descent Into a Facebook-Like Algorithm-Driven Garbage Experience](https://daringfireball.net/linked/2020/09/07/irace-instagram)** – September 7, 2020
 * **[Life at Stripe: Bryan Irace on finding the middle in NYC](https://medium.com/life-at-stripe/bryan-irace-on-finding-the-middle-in-nyc-4551dedc9225)** – February 6, 2020
 * **[MacStories: Mixing and Matching Devices and Services Has Advantages in a Highly Competitive Tech World](https://www.macstories.net/linked/mixing-and-matching-devices-and-services-has-advantages-in-a-highly-competitive-tech-world/)** – August 9, 2018
