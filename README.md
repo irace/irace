@@ -14,6 +14,7 @@ I don’t write nearly as often as I’d like to nowadays, but you can find ever
 
 
 * **[Spyglass: The Vibe Shift Amongst Apple Developers](https://spyglass.org/vibe-coding-apple-devs/)** – March 26, 2025
+* **[Michael Tsai: Tim, Don’t Kill My Vibe](https://mjtsai.com/blog/2025/03/24/tim-dont-kill-my-vibe/)** — March 24, 2025
 * **[Daring Fireball: Bryan Irace: 'Tim, don't kill my vibe'](https://daringfireball.net/linked/2025/03/24/irace-vibe-killing)** – March 24, 2025
 * **[MacStories: App Store Vibes](https://www.macstories.net/linked/app-store-vibes/)** – March 24, 2025
 * **[Daring Fireball: Bryan Irace on Instagram's Continuing Descent Into a Facebook-Like Algorithm-Driven Garbage Experience](https://daringfireball.net/linked/2020/09/07/irace-instagram)** – September 7, 2020
